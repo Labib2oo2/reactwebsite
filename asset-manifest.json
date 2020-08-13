@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.8d691836.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.18c57e21.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.18c57e21.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.fe7cde09.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.fe7cde09.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/reactwebsite/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.a333ee84.chunk.js": "/reactwebsite/static/js/2.a333ee84.chunk.js",
+    "static/js/2.a333ee84.chunk.js.map": "/reactwebsite/static/js/2.a333ee84.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "precache-manifest.042d4b4d4cba08eea690274e234746fd.js": "/reactwebsite/precache-manifest.042d4b4d4cba08eea690274e234746fd.js",
+    "service-worker.js": "/reactwebsite/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/reactwebsite/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.8d691836.chunk.css.map": "/reactwebsite/static/css/main.8d691836.chunk.css.map",
+    "static/js/2.a333ee84.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.a333ee84.chunk.js.LICENSE.txt",
+    "static/media/affiliate.jpg": "/reactwebsite/static/media/affiliate.b5e329a4.jpg",
+    "static/media/code.svg": "/reactwebsite/static/media/code.2be4b4c7.svg",
+    "static/media/dataentry.jpg": "/reactwebsite/static/media/dataentry.81ba3db9.jpg",
+    "static/media/digital.jpg": "/reactwebsite/static/media/digital.842ab334.jpg",
+    "static/media/freelance.jpg": "/reactwebsite/static/media/freelance.d670d999.jpg",
+    "static/media/game.jpg": "/reactwebsite/static/media/game.b8ff8312.jpg",
+    "static/media/graphics.jpg": "/reactwebsite/static/media/graphics.e4b56328.jpg",
+    "static/media/iphone.jpg": "/reactwebsite/static/media/iphone.fc097391.jpg",
+    "static/media/logo.svg": "/reactwebsite/static/media/logo.5d5d9eef.svg",
+    "static/media/marketting.jpg": "/reactwebsite/static/media/marketting.f6a617ac.jpg",
+    "static/media/photography.jpg": "/reactwebsite/static/media/photography.24f43957.jpg",
+    "static/media/seo.jpg": "/reactwebsite/static/media/seo.145ddaad.jpg",
+    "static/media/team-management.svg": "/reactwebsite/static/media/team-management.9927a740.svg",
+    "static/media/undraw_contact_us_15o2.svg": "/reactwebsite/static/media/undraw_contact_us_15o2.b0b9d5da.svg",
+    "static/media/undraw_programmer_imem.svg": "/reactwebsite/static/media/undraw_programmer_imem.7e15cd05.svg",
+    "static/media/undraw_web_developer_p3e5.svg": "/reactwebsite/static/media/undraw_web_developer_p3e5.29a9e36b.svg",
+    "static/media/webdev.jpg": "/reactwebsite/static/media/webdev.c8e7a31a.jpg",
+    "static/media/youtube.jpg": "/reactwebsite/static/media/youtube.2f7526fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe7cde09.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.a333ee84.chunk.js",
+    "static/css/main.8d691836.chunk.css",
+    "static/js/main.18c57e21.chunk.js"
+  ]
+}
